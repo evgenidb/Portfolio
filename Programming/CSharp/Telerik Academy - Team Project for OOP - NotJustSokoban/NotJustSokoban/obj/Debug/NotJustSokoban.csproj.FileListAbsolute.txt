@@ -1,0 +1,10 @@
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\bin\Debug\NotJustSokoban.exe.config
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\obj\Debug\NotJustSokoban.csprojResolveAssemblyReference.cache
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\bin\Debug\NotJustSokoban.exe
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\bin\Debug\NotJustSokoban.pdb
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\obj\Debug\NotJustSokoban.exe
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\obj\Debug\NotJustSokoban.pdb
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\obj\Debug\NotJustSokoban.Properties.Resources.resources
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\obj\Debug\NotJustSokoban.csproj.GenerateResource.Cache
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\bin\Debug\Newtonsoft.Json.dll
+D:\HTML5, CSS3 & Java Script\ООП\TeamProject\NotJustSokoban\bin\Debug\Newtonsoft.Json.xml
