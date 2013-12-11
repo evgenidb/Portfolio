@@ -1,0 +1,150 @@
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.WebApi.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.WebApi.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Antlr3.Runtime.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\EntityFramework.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.Edm.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.OData.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Newtonsoft.Json.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Spatial.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Helpers.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.OData.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.Tracing.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Mvc.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Optimization.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Providers.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Razor.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\WebGrease.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\EntityFramework.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Newtonsoft.Json.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Helpers.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Mvc.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Razor.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.Tracing.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.OData.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.Edm.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.OData.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Spatial.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\de\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\es\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\it\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\de\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\es\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\fr\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\it\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ja\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ko\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ru\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hans\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\obj\Debug\MusicAlbums.WebApi.csprojResolveAssemblyReference.cache
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\obj\Debug\MusicAlbums.WebApi.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\obj\Debug\MusicAlbums.WebApi.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Model.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Data.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Data.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\obj\Debug\MusicAlbums.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\obj\Debug\MusicAlbums.WebApi.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\obj\Debug\MusicAlbums.WebApi.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.WebApi.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.WebApi.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\EntityFramework.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.Edm.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.OData.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Data.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Model.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Repositories.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Spatial.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.OData.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.Tracing.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Providers.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\WebGrease.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Data.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Model.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Repositories.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\EntityFramework.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.Tracing.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Web.Http.OData.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.Edm.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\Microsoft.Data.OData.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\System.Spatial.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\de\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\es\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\fr\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\it\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ja\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ko\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\ru\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Repositories.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.WebApi\bin\MusicAlbums.Repositories.pdb

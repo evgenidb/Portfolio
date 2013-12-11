@@ -1,0 +1,4 @@
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.Model\bin\Debug\MusicAlbums.Client.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.Model\bin\Debug\MusicAlbums.Client.Model.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.Model\obj\Debug\MusicAlbums.Client.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.Model\obj\Debug\MusicAlbums.Client.Model.pdb

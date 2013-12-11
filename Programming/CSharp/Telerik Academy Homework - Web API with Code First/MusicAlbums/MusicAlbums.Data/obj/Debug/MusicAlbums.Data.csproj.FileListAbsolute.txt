@@ -1,0 +1,20 @@
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\obj\Debug\MusicAlbums.Data.csprojResolveAssemblyReference.cache
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Data.dll.config
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Data.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Data.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\EntityFramework.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Model.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\EntityFramework.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\obj\Debug\MusicAlbums.Data.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Data\obj\Debug\MusicAlbums.Data.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Data.dll.config
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Data.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Data.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Model.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\MusicAlbums.Model.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\obj\Debug\MusicAlbums.Data.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\obj\Debug\MusicAlbums.Data.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Data\obj\Debug\MusicAlbums.Data.pdb

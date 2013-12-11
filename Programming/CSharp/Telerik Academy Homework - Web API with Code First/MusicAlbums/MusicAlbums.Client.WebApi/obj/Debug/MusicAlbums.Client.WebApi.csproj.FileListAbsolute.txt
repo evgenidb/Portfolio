@@ -1,0 +1,12 @@
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\MusicAlbums.Client.WebApi.exe.config
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\MusicAlbums.Client.WebApi.exe
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\MusicAlbums.Client.WebApi.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\MusicAlbums.Client.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\MusicAlbums.Client.Model.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\obj\Debug\MusicAlbums.Client.WebApi.csprojResolveAssemblyReference.cache
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\obj\Debug\MusicAlbums.Client.WebApi.exe
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Client.WebApi\obj\Debug\MusicAlbums.Client.WebApi.pdb

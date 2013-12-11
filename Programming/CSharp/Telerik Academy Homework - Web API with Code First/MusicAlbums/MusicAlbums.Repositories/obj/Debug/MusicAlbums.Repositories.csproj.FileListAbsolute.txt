@@ -1,0 +1,20 @@
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\obj\Debug\MusicAlbums.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Repositories.dll.config
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Repositories.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Repositories.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Model.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Model.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\obj\Debug\MusicAlbums.Repositories.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Repositories\obj\Debug\MusicAlbums.Repositories.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Repositories.dll.config
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Repositories.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Repositories.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\EntityFramework.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\MusicAlbums.Model.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\bin\Debug\EntityFramework.xml
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\obj\Debug\MusicAlbums.Repositories.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\obj\Debug\MusicAlbums.Repositories.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Repositories\obj\Debug\MusicAlbums.Repositories.csprojResolveAssemblyReference.cache

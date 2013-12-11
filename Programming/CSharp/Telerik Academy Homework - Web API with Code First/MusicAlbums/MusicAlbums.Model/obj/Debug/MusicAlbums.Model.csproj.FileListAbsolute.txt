@@ -1,0 +1,9 @@
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Model\bin\Debug\MusicAlbums.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Model\bin\Debug\MusicAlbums.Model.pdb
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Model\obj\Debug\MusicAlbums.Model.dll
+D:\Evgeni\Telerik\Academy\Web Services\02. ASP.NET Web API\Homework\MusicAlbums\MusicAlbums.Model\obj\Debug\MusicAlbums.Model.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Model\bin\Debug\MusicAlbums.Model.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Model\bin\Debug\MusicAlbums.Model.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Model\obj\Debug\MusicAlbums.Model.dll
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Model\obj\Debug\MusicAlbums.Model.pdb
+C:\Users\student\Desktop\Evgeni\Homework\MusicAlbums\MusicAlbums.Model\obj\Debug\MusicAlbums.Model.csprojResolveAssemblyReference.cache
