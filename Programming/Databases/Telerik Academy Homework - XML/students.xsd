@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:students" xmlns="urn:students" elementFormDefault="qualified">
+	<xs:element name="students">
+		<xs:complexType>
+			<xs:element name="students:student" minOccurs="0" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="students:name">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="students:first-name" type="xs:string"/>
+									<xs:element name="students:middle-name" type="xs:string"/>
+									<xs:element name="students:last-name" type="xs:string"/>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="students:sex" type="xs:string"/>
+						<xs:element name="students:birth-date" type="xs:date"/>
+						<xs:element name="students:phone" type="xs:string"/>
+						<xs:element name="students:email" type="xs:string"/>
+						<xs:element name="students:course" type="xs:integer"/>
+						<xs:element name="students:specialty" type="xs:string"/>
+						<xs:element name="students:faculty-number" type="xs:string"/>
+						<xs:element name="students:exams-taken">
+							<xs:complexType>
+								<xs:element name="students:exam" minOccurs="0" maxOccurs="unbounded">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element name="students:exam-name" type="xs:string"/>
+											<xs:element name="students:tutors">
+												<xs:complexType>
+													<xs:element name="students:tutor" minOccurs="0" maxOccurs="unbounded">
+														<xs:complexType>
+															<xs:element name="students:tutor-name" type="xs:string"/>
+														</xs:complexType>
+													</xs:element>
+												</xs:complexType>
+											</xs:element>
+											<xs:element name="students:score" type="xs:string"/>
+										</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+					<xs:attribute name="id" type="xs:integer" use="required"/>
+				</xs:complexType>
+			</xs:element>
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>

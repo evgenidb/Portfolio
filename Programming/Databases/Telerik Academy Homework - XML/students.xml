@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students xmlns:students="urn:students" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:students students.xsd">
+	<students:student id="1">
+		<students:name>
+			<students:first-name>James</students:first-name>
+			<students:middle-name></students:middle-name>
+			<students:last-name>Bond</students:last-name>
+		</students:name>
+		<students:sex>M</students:sex>
+		<students:birth-date>1953-04-13</students:birth-date>
+		<students:phone>none</students:phone>
+		<students:email>bond@james.bond</students:email>
+		<students:course>7</students:course>
+		<students:specialty>Spy</students:specialty>
+		<students:faculty-number>007</students:faculty-number>
+		<students:exams-taken>
+			<students:exam>
+				<students:exam-name>Die Another Day</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Lee Tamahori</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$431,971,116</students:score>
+			</students:exam>
+			<students:exam>
+				<students:exam-name>Casino Royale</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Martin Campbell</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$599,045,960</students:score>
+			</students:exam>
+			<students:exam>
+				<students:exam-name>Quantum of Solace</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Marc Forster</students:tutor-name>
+					</students:tutor>
+					<students:tutor>
+						<students:tutor-name>Michael G. Wilson</students:tutor-name>
+					</students:tutor>
+					<students:tutor>
+						<students:tutor-name>Barbara Broccoli</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$586,090,727</students:score>
+			</students:exam>
+			<students:exam>
+				<students:exam-name>Skyfall</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Sam Mendes</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$1,108,561,013</students:score>
+			</students:exam>
+		</students:exams-taken>
+	</students:student>
+	<students:student id="2">
+		<students:name>
+			<students:first-name>Jason</students:first-name>
+			<students:middle-name>Charles</students:middle-name>
+			<students:last-name>Bourne</students:last-name>
+		</students:name>
+		<students:sex>M</students:sex>
+		<students:birth-date>1980-02-01</students:birth-date>
+		<students:phone>none</students:phone>
+		<students:email>none@none.com</students:email>
+		<students:course>2</students:course>
+		<students:specialty>Ex-Spy</students:specialty>
+		<students:faculty-number>Delta One</students:faculty-number>
+		<students:exams-taken>
+			<students:exam>
+				<students:exam-name>The Bourne Identity (1988 film)</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Roger Young</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>Unknown</students:score>
+			</students:exam>
+			<students:exam>
+				<students:exam-name>The Bourne Identity</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Doug Liman</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$214,034,224</students:score>
+			</students:exam>
+			<students:exam>
+				<students:exam-name>The Bourne Supremacy</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Paul Greengrass</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$288,500,217</students:score>
+			</students:exam>
+			<students:exam>
+				<students:exam-name>The Bourne Ultimatum</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Paul Greengrass</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$442,824,138</students:score>
+			</students:exam>
+		</students:exams-taken>
+	</students:student>
+	<students:student id="3">
+		<students:name>
+			<students:first-name>Evelyn</students:first-name>
+			<students:middle-name></students:middle-name>
+			<students:last-name>Salt</students:last-name>
+		</students:name>
+		<students:sex>F</students:sex>
+		<students:birth-date>2010-07-23</students:birth-date>
+		<students:phone>none</students:phone>
+		<students:email>none</students:email>
+		<students:course>1</students:course>
+		<students:specialty>Sleeper Agent</students:specialty>
+		<students:faculty-number>KA-12</students:faculty-number>
+		<students:exams-taken>
+			<students:exam>
+				<students:exam-name>Salt</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Phillip Noyce</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>$293,503,354 </students:score>
+			</students:exam>
+		</students:exams-taken>
+	</students:student>
+	<students:student id="4">
+		<students:name>
+			<students:first-name>Michael</students:first-name>
+			<students:middle-name></students:middle-name>
+			<students:last-name>Westen</students:last-name>
+		</students:name>
+		<students:sex>M</students:sex>
+		<students:birth-date>2007-06-28</students:birth-date>
+		<students:phone>varies</students:phone>
+		<students:email>burned@spy.con</students:email>
+		<students:course>1</students:course>
+		<students:specialty>Burned Spy</students:specialty>
+		<students:faculty-number>unknown</students:faculty-number>
+		<students:exams-taken>
+			<students:exam>
+				<students:exam-name>Burn Notice</students:exam-name>
+				<students:tutors>
+					<students:tutor>
+						<students:tutor-name>Matt Nix</students:tutor-name>
+					</students:tutor>
+				</students:tutors>
+				<students:score>7 seasons</students:score>
+			</students:exam>
+		</students:exams-taken>
+	</students:student>
+</students>
