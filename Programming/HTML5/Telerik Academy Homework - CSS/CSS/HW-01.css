@@ -1,0 +1,27 @@
+@font-face
+{
+	font-family: Edwardian Script ITC;
+	src: url(Fonts/EdwardianScript-ITC.ttf);
+}
+
+p
+{
+	font-family: Consolas,'Lucida Console','DejaVu Sans Mono',monospace;
+	font-size: 1em;
+	font-weight: normal;
+	
+	color: rgb(30, 144, 255);
+}
+
+
+p:first-line
+{
+	font-weight: bold;
+}
+
+p:first-letter
+{
+	font-family: "Edwardian Script ITC";
+	font-size: 3rem;
+}
+

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+    <title>LinkedIn</title>
+</head>
+<body>
+    <header>
+        <h1>
+			<a href="#">LinkedIn</a>
+		</h1>
+		<nav>
+			<ul>
+				<li>
+					<a href="#">Home</a>
+				</li>
+				<li>
+					<a href="#">What is LinkedIn</a>
+				</li>
+				<li>
+					<a href="#">Join Today</a>
+				</li>
+				<li>
+					<form method="post">
+						<fieldset>
+							<legend><a href="#">Sign In</a></legend>
+							<ul>
+								<li>
+									<label for="signIn_email">Email:</label>
+									<input type="email" id="signIn_email" name="signIn_email" pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$" autocomplete="on" required="required" />
+								</li>
+								<li>
+									<label for="signIn_password">Password:</label>
+									<input type="password" id="signIn_password" name="signIn_password" required="required" />
+								</li>
+								<li>
+									<input type="submit" id="signIn_submit" value="Sign In" />
+								</li>
+							</ul>
+						</fieldset>
+					</form>
+				</li>
+			</ul>
+		</nav>
+    </header>
+	<hr />
+	<div>
+		<h1>Over 175 million professionals use LinkedIn to exchange information, ideas and opportunities</h1>
+		<ul>
+			<li>Stay informant about your contacts and industry</li>
+			<li>Find the people & knowledge you need to achieve your goals</li>
+			<li>Control your profesional identity online</li>
+		</ul>
+		<h2>Join LinkedIn Today</h2>
+		<form method="post">
+			<fieldset>
+				<legend>Sign Up</legend>
+				<ul>
+					<li>
+						<label for="register_firstName">First Name:</label>
+						<br />
+						<input type="text" id="register_firstName" name="register_firstName" autocomplete="on" required="required" />
+					</li>
+					
+					<li>
+						<label for="register_lastName">Last Name:</label>
+						<br />
+						<input type="text" id="register_lastName" name="register_lastName" autocomplete="on" required="required" />
+					</li>
+					
+					<li>
+						<label for="register_email">Email:</label>
+						<br />
+						<input type="email" id="register_email" name="register_email" pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$" autocomplete="on" required="required" />
+					</li>
+					
+					<li>
+						<label for="register_password">Password:</label>
+						<br />
+						<input type="password" id="register_password" name="register_password" pattern="^(?=.*\d)(?=.*[A-Z])(?=.*[a-z]).{6,32}$" required="required" />
+						<br />
+						<label for="register_password">6 or more characters</label>
+					</li>
+				</ul>
+				<input type="submit" id="register_submit" value="Join In">
+				<a href="#">*</a>
+				<p>Already on LinkedIn? <a href="#">Sign in</a></p>
+			</fieldset>
+		</form>
+		<h3>Seach for someone by name:</h3>
+		<form>
+			<ul>
+				<li>
+					<label for="register_firstName">First Name:</label>
+					<input type="text" id="findSomeone_firstName" name="register_firstName" autocomplete="on" required="required" />
+				</li>
+				<li>
+					<label for="register_lastName">Last Name:</label>
+					<input type="text" id="findSomeone_lastName" name="register_lastName" autocomplete="on" required="required" />
+				</li>
+			</ul>
+			<input type="submit" id="findSomeone_search" value="Go">
+		</form>
+	</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+body
+{
+	/* Background */
+	background-color: yellow;
+	
+	/* Counter */
+	counter-reset: towerCounter;
+}
+
+.tower
+{
+	/* Dimensions */
+	width: 3000px;
+}
+
+.tower div
+{
+	/* Margin and Padding */
+	padding-right: 2%;
+	
+	/* Background */
+	background-color: black;
+	
+	/* Border */
+	border-width: 1px;
+	border-style: solid;
+	border-color: red;
+	
+	border-radius: 60px;
+}

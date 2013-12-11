@@ -1,0 +1,32 @@
+.wrapper {
+    /* Width and Height */
+    width: 25%;
+    height: 800px;
+
+    /* Float */
+    float: left;
+
+    /* Border */
+    border: 1px dotted green;
+}
+
+
+.TreeViewContainer {
+    /* Width and Height */
+    width: 20%;
+
+    /* Overflow */
+    overflow: auto;
+
+    /* Display */
+    display: inline-block;
+
+    /* Border */
+    border: 1px dotted red;
+}
+
+
+.TreeViewContainer > ul {
+    /* Margin and Padding */
+    margin-left: -15px;
+}

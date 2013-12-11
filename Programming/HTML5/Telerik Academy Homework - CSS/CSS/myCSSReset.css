@@ -1,0 +1,19 @@
+﻿body
+{
+	/* Margin and Padding */
+	padding-top: 0.5rem;
+	padding-bottom:	0rem;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+	
+	/* Text */
+	word-wrap: break-word;
+	font-family: "Times New Roman",Georgia,Serif;
+}
+
+nav ul
+{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
