@@ -1,2 +1,0 @@
-<?php
-end_session();
