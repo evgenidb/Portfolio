@@ -14,18 +14,18 @@ Contents:
 #### Programming
 
 1. C#
-    * NotJustSokoban - description comming soon.
-    * WebAPI with Code First Homework - description comming soon.
+	* NotJustSokoban *(Telerik Academy, March 2013)* - Description comming soon.
+	* ASP.NET WebAPI with Code First *(Telerik Academy, August 2013)* - Description comming soon.
 2. Databases
-	* Advanced SQL Homework - description comming soon.
-	* Transact-SQL Homework - description comming soon.
-	* XML Homework - description comming soon.
+	* Advanced SQL Homework *(Telerik Academy, July 2013)* - Description comming soon.
+	* Transact-SQL Homework *(Telerik Academy, July 2013)* - Description comming soon.
+	* XML Homework *(Telerik Academy, July 2013)* - Description comming soon.
 3. HTML5
-	* Semantic HTML Homework - description comming soon.
-	* CSS Homework - description comming soon.
-	* JS OOP Homework - description comming soon.
-	* jQuery Homework - description comming soon.
+	* Semantic HTML Homework *(Telerik Academy, December 2013)* - Description comming soon.
+	* CSS Homework *(Telerik Academy, February 2013)* - Description comming soon.
+	* JS OOP Homework *(Telerik Academy, April 2013)* - Description comming soon.
+	* jQuery Homework *(Telerik Academy, June 2013)* - Description comming soon.
 4. Objective-C
-	* iTravel - the final group project in the MentorMate Acedemy. My main parts are related to the MapView.
+	* iTravel *(MentorMate Academy, January 2013)* - The final group project in the MentorMate Acedemy. My main parts are related to the MapView.
 5. PHP
-	* Book Catalogue Homework - description comming soon.
+	* Book Catalogue Homework *(Telerik Academy, November 2013)* -
