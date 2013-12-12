@@ -26,6 +26,6 @@ Contents:
 	* JS OOP Homework *(Telerik Academy, April 2013)* - Description comming soon.
 	* jQuery Homework *(Telerik Academy, June 2013)* - Description comming soon.
 4. Objective-C
-	* iTravel *(MentorMate Academy, January 2013)* - The final group project in the MentorMate Acedemy. My main parts are related to the MapView.
+	* iTravel *(MentorMate Academy, January 2013)* - Description comming soon.
 5. PHP
 	* Book Catalogue Homework *(Telerik Academy, November 2013)* -
