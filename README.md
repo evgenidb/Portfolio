@@ -28,4 +28,4 @@ Contents:
 4. Objective-C
 	* iTravel *(MentorMate Academy, January 2013)* - Description comming soon.
 5. PHP
-	* Book Catalogue Homework *(Telerik Academy, November 2013)* -
+	* Book Catalogue Homework *(Telerik Academy, November 2013)* - Description comming soon.
